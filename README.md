@@ -51,7 +51,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ https://morningnews-frontend-two.vercel.app/
+⇒ https://morningnews-frontend-six.vercel.app/
 
 ## 🧑‍💻 Authors
 
