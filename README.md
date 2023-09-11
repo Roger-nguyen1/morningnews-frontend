@@ -1,28 +1,20 @@
 # 📚 Morning News
 
-Hi,
-I'm Roger, I'm currently deepening my knowledge in web development. I'm specialized in React frontend development.
-I had fun coding all these projects!
-Feel free to ask me questions and don't hesitate to look at my other projects ;)
-Have fun coding!
+Bonjour,
+
+Je me présente, je suis Roger. Actuellement, je suis en train d’approfondir mes compétences en développement web, avec une concentration particulière sur le développement frontend en utilisant React. J’ai trouvé un immense plaisir à programmer tous ces projets. Je vous invite à me poser des questions et à explorer mes autres réalisations.
 
 ## ✍️ Description
 
-Morning News is a web application that displays recent news from The Verge. The app is built using React and includes features such as navigation, Redux, and authentication. (API : [https://newsapi.org/](https://newsapi.org/) )
+Morning News est une application web qui affiche les dernières nouvelles de The Verge. L'application est construite en utilisant React et comprend des fonctionnalités telles que la navigation, l'authentification, l'ajout d'articles favoris et Redux. (API : [https://newsapi.org/](https://newsapi.org/) )
 
-In Part 1, the application's base is already set up, and the task is to add navigation and populate the application with real news using NewsAPI.
+L'application permet aux utilisateurs de consulter les actualités, de sauvegarder leurs articles préférés dans l'onglet "Favoris" grâce à Redux, de créer un compte, de se connecter et de se déconnecter. La sécurité est renforcée par l'ajout d'un jeton et le hachage du mot de passe des utilisateurs, empêchant ainsi les utilisateurs non autorisés d'accéder à la fonction "Favoris".
 
-In Part 2, users can save favorite articles to the "Bookmarks" tab using Redux.
-
-In Part 3, users can create an account, log in, and log out. The HTML structure and style are already in place, and routes must be set up to connect to the database. Redux is used to share login information across the entire application.
-
-In Part 4, security is improved by adding a token and hashing the user's password. Unauthorized users are blocked from using the "Bookmarks" feature.
-
-In Part 5, the focus is on improving user experience by making the store persistent. This means that users can stay logged in and keep their favorite articles even when refreshing the page. A feature will also be added to allow users to hide articles they have already read.
+De plus, pour améliorer l'expérience utilisateur, les données utilisateurs sont rendus persistantes, ce qui permet aux utilisateurs de rester connectés et de conserver leurs articles préférés même lorsqu'ils rafraîchissent la page. Une fonctionnalité est également ajoutée pour permettre aux utilisateurs de masquer les articles qu'ils ont déjà lus.
 
 ## 🎬 Getting Started : Dependencies and Other
 
-!! Most of my projects have a separate backend and frontend, you will find them here on my github.
+La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
 
 ```
 
