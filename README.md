@@ -12,7 +12,7 @@ L'application permet aux utilisateurs de consulter les actualités, de sauvegard
 
 De plus, pour améliorer l'expérience utilisateur, les données utilisateurs sont rendus persistantes, ce qui permet aux utilisateurs de rester connectés et de conserver leurs articles préférés même lorsqu'ils rafraîchissent la page. Une fonctionnalité est également ajoutée pour permettre aux utilisateurs de masquer les articles qu'ils ont déjà lus.
 
-## 🎬 Getting Started : Dependencies and Other
+## 🎬 Démarrage : Dépendances et Autres
 
 La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
 
@@ -28,7 +28,7 @@ yarn dev
 
 ```
 
-## ⚛️ Tech and Stuff
+## ⚛️ Stack technique
 
 - HTML
 - CSS
@@ -41,15 +41,15 @@ yarn dev
 - Vercel
 - …
 
-## 🚀 Deploy
+## 🚀 Site web déployé
 
 ⇒ https://morningnews-frontend-six.vercel.app/
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Auteur
 
 Roger NGUYEN
 
-## 🌐 Network
+## 🌐 Réseau
 
 My Portfolio : [Roger NGUYEN](https://portfolio-roger.vercel.app/)
 
